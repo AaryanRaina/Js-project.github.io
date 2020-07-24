@@ -1,0 +1,25 @@
+#shape{
+			width:200px;
+			height:200px;
+			display:none;
+			position:relative;
+		}
+
+h1{
+	font-size:50px;
+	color:purple;
+	text-align:center;
+	background-color:yellow;
+}
+
+h3{
+	text-align:center;
+	background-color:pink;
+}
+
+p{
+	background-color:lightgreen;	
+}
+
+
+		
